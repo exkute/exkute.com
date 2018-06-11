@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="800"
+   height="800"
+   viewBox="0 0 211.66667 211.66667"
+   version="1.1"
+   id="svg8"
+   inkscape:export-filename="/home/yann/Desktop/test-exkute.png"
+   inkscape:export-xdpi="584.97699"
+   inkscape:export-ydpi="584.97699"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="exkute.svg">
+  <defs
+     id="defs2">
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Lend"
+       style="overflow:visible;"
+       inkscape:isstock="true">
+      <path
+         id="path5173"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         transform="scale(0.8) rotate(180) translate(12.5,0)" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35992967"
+     inkscape:cx="324.79162"
+     inkscape:cy="466.09273"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     units="px"
+     showguides="true"
+     inkscape:measure-start="12.1218,-577.807"
+     inkscape:measure-end="0,0"
+     inkscape:window-width="1920"
+     inkscape:window-height="1016"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="diag_bot_left"
+     style="display:inline" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="square"
+     style="display:inline" />
+  <g
+     inkscape:label="vertical"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-85.333349)"
+     style="display:inline">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:100.08026886px;line-height:1.25;font-family:'Droid Sans Japanese';-inkscape-font-specification:'Droid Sans Japanese';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.50200677"
+       x="-310.96909"
+       y="17.519966"
+       id="text5511"
+       transform="scale(0.7761519,1.2884076)"><tspan
+         sodipodi:role="line"
+         id="tspan5509"
+         x="-310.96909"
+         y="17.519966"
+         style="stroke-width:2.50200677">XK</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:95.35144043px;line-height:1.25;font-family:'Droid Sans Japanese';-inkscape-font-specification:'Droid Sans Japanese';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.3837862"
+       x="-296.41992"
+       y="-18.128635"
+       id="text5511-1"
+       transform="scale(0.8146441,-1.2275299)"><tspan
+         sodipodi:role="line"
+         id="tspan5509-3"
+         x="-296.41992"
+         y="-18.128635"
+         style="stroke-width:2.3837862">XK</tspan></text>
+    <path
+       sodipodi:type="star"
+       style="fill:#8782ff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:6.27939558;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:330.54000854;stroke-opacity:1;paint-order:normal"
+       id="path5531"
+       sodipodi:sides="3"
+       sodipodi:cx="71.356277"
+       sodipodi:cy="174.7942"
+       sodipodi:r1="113.71918"
+       sodipodi:r2="56.859589"
+       sodipodi:arg1="2.084511"
+       sodipodi:arg2="3.1317085"
+       inkscape:flatsided="true"
+       inkscape:rounded="0.14"
+       inkscape:randomized="0"
+       d="M 15.472873,273.83509 C -8.5432643,260.28408 -10.217525,90.900399 13.526059,76.877316 37.269643,62.854233 184.79735,146.09612 185.0699,173.67021 185.34245,201.2443 39.489011,287.38609 15.472873,273.83509 Z"
+       inkscape:transform-center-x="-17.987434"
+       inkscape:transform-center-y="0.5715082"
+       transform="matrix(0.64374879,0,0,1.0169367,90.441114,13.81354)"
+       inkscape:export-xdpi="48.064053"
+       inkscape:export-ydpi="48.064053" />
+    <path
+       sodipodi:type="star"
+       style="fill:#ad95cc;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3.08729792;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:330.54000854;stroke-opacity:1;paint-order:normal"
+       id="path6850"
+       sodipodi:sides="4"
+       sodipodi:cx="84.726143"
+       sodipodi:cy="193.04156"
+       sodipodi:r1="62.409721"
+       sodipodi:r2="44.130337"
+       sodipodi:arg1="1.5707963"
+       sodipodi:arg2="2.3561945"
+       inkscape:flatsided="true"
+       inkscape:rounded="0.14"
+       inkscape:randomized="0"
+       d="m 84.726145,255.45129 c -12.356495,0 -62.409723,-50.05323 -62.409723,-62.40972 -1e-6,-12.3565 50.053225,-62.40973 62.409719,-62.40973 12.356495,0 62.409719,50.05323 62.409719,62.40972 0,12.3565 -50.053221,62.40973 -62.409715,62.40973 z"
+       transform="matrix(0.97723533,0,0,1.6492741,-20.250958,-127.29583)"
+       inkscape:export-xdpi="48.064053"
+       inkscape:export-ydpi="48.064053" />
+    <path
+       sodipodi:type="star"
+       style="display:inline;fill:#8782ff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:6.27939558;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:330.54000854;stroke-opacity:1;paint-order:normal"
+       id="path5531-3"
+       sodipodi:sides="3"
+       sodipodi:cx="71.356277"
+       sodipodi:cy="174.7942"
+       sodipodi:r1="113.71918"
+       sodipodi:r2="56.859589"
+       sodipodi:arg1="2.084511"
+       sodipodi:arg2="3.1317085"
+       inkscape:flatsided="true"
+       inkscape:rounded="0.14"
+       inkscape:randomized="0"
+       d="M 15.472873,273.83509 C -8.5432643,260.28408 -10.217525,90.900399 13.526059,76.877316 37.269643,62.854233 184.79735,146.09612 185.0699,173.67021 185.34245,201.2443 39.489011,287.38609 15.472873,273.83509 Z"
+       inkscape:transform-center-x="-6.3364829"
+       inkscape:transform-center-y="0.22230012"
+       transform="matrix(0.22677517,0,0,0.39555425,35.844661,-66.83844)"
+       inkscape:export-xdpi="47.882835"
+       inkscape:export-ydpi="47.882835"
+       inkscape:export-filename="/home/yann/Desktop/exkute.logo.m.png" />
+    <path
+       sodipodi:type="star"
+       style="display:inline;fill:#ad95cc;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3.08729792;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:330.54000854;stroke-opacity:1;paint-order:normal"
+       id="path6850-3"
+       sodipodi:sides="4"
+       sodipodi:cx="84.726143"
+       sodipodi:cy="193.04156"
+       sodipodi:r1="62.409721"
+       sodipodi:r2="44.130337"
+       sodipodi:arg1="1.5707963"
+       sodipodi:arg2="2.3561945"
+       inkscape:flatsided="true"
+       inkscape:rounded="0.14"
+       inkscape:randomized="0"
+       d="m 84.726145,255.45129 c -12.356495,0 -62.409723,-50.05323 -62.409723,-62.40972 -1e-6,-12.3565 50.053225,-62.40973 62.409719,-62.40973 12.356495,0 62.409719,50.05323 62.409719,62.40972 0,12.3565 -50.053221,62.40973 -62.409715,62.40973 z"
+       transform="matrix(0.34425339,0,0,0.64151228,-3.1491401,-121.72526)"
+       inkscape:export-xdpi="47.882835"
+       inkscape:export-ydpi="47.882835"
+       inkscape:export-filename="/home/yann/Desktop/exkute.logo.m.png" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot6889"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:Cantarell;-inkscape-font-specification:Cantarell;letter-spacing:0px;word-spacing:0px;fill:#3b3a3b;fill-opacity:1;stroke:none"
+       transform="matrix(1.7354652,0,0,1.4021006,-914.56379,689.73708)"
+       inkscape:export-filename="/home/yann/Desktop/exkute.logo.m.png"
+       inkscape:export-xdpi="47.882835"
+       inkscape:export-ydpi="47.882835"><flowRegion
+         id="flowRegion6891"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Cantarell;-inkscape-font-specification:Cantarell;fill:#3b3a3b;fill-opacity:1"><rect
+           id="rect6893"
+           width="525.1026"
+           height="263.94046"
+           x="572.33405"
+           y="-511.36731"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Cantarell;-inkscape-font-specification:Cantarell;fill:#3b3a3b;fill-opacity:1" /></flowRegion><flowPara
+         id="flowPara6895">E<flowSpan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Cantarell;-inkscape-font-specification:Cantarell;fill:#ad95cc;fill-opacity:1"
+   id="flowSpan6897">X</flowSpan><flowSpan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Cantarell;-inkscape-font-specification:Cantarell;fill:#8782ff;fill-opacity:1"
+   id="flowSpan6911">K</flowSpan>UTE</flowPara></flowRoot>  </g>
+</svg>

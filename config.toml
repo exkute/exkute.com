@@ -1,0 +1,75 @@
+baseURL = "localhost:1313"
+languageCode = "en-us"
+title = "Exkute"
+theme = "hugo-lodi-theme"
+# googleAnalytics = "UA-XXXXXXXX-Y"
+
+[params]
+    # head theme color
+    theme_color = ""
+
+    # head description
+    # This is what appears on the preview when posting this site on Facebook for example
+    description = ""
+
+    # head photo
+    # This is what appears on the preview when posting this site on Facebook for example
+    description_photo = "exkute-logo-with-name.png"
+
+    # favicon image (512x512px), place this in the static/img folder
+    favicon = "favicon.png?v=2"
+
+    # logo image (204x204px), place this in the static/img folder
+    # this appears on the top left of the navigation
+    logo = "exkute-logo.png"
+
+    # Email
+    # email = "contact@exkute.com"
+
+    # Facebook username
+    # facebook = ""
+
+    # Twitter username
+    # twitter = "asdf"
+
+    # Dribbble username
+    # dribbble = ""
+
+    # LinkedIn URL
+    # linkedin = ""
+    
+    # Medium username
+    # medium = "asdf"
+
+[params.nav]
+    enable = true
+
+[params.hero]
+    # TODO change resume to Sign up
+    enable = true
+    
+    # Place this image in the static/img folder
+    avatar = "exkute-name.png"
+    subtitle = "Extensible Kubernetes Team"
+
+    # Each element in this array makes a new <p> tag
+    # You can write this text in markdown
+    hero_right = [
+    "**Exkute** est un complément de l’infogérance 2.0 que propose SKALE-5. Elle consiste à fournir à notre client un outillage adapté et un support personnalisé pour la gestion de sa plateforme **basée sur Kubernetes**. Elle privilégie **le soin et l’attention** portée à une infrastructure plutôt que l’urgence et la réaction."
+    ]
+
+    # Link to your resume, place your PDF in the /static folder
+    resume = "#"
+
+[params.process]
+    enable = true
+    title = "Features"
+    subtitle = "Ready to deploy"
+
+[params.case_studies]
+    enable = true
+    title = "Want to know more?"
+    subtitle = "This is how we work"
+
+[params.footer]
+    enable = true
